@@ -1,0 +1,40 @@
+header{
+    background-color: saddlebrown;
+    color: white;
+
+}
+footer{
+    background-color: saddlebrown;
+    color: white;
+
+}
+.center{
+    margin: auto;
+    width: 50%;
+    padding: 20px;
+    text-align: center;
+
+}
+#menuLeft{
+    background-color: orange;
+}
+#top{
+    text-align: center;
+    background-color: chocolate;
+}
+div{
+    text-align: center;
+}
+.content{
+    height: 100px;
+    margin: auto;
+    width: 50%;
+    padding: 30px;
+}
+.pink{
+    background-color: palevioletred;
+    
+}
+.blue{
+    background-color: lightskyblue;
+}
